@@ -2,6 +2,9 @@
 
 Antonia Valenzuela 201903027-2
 
+
+Realizado en React, para levantar ejecutar lo siguiente:
+
 ## Instalar paquetes
 
 `npm install`
