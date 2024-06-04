@@ -32,11 +32,11 @@ const SearchPage = () => {
           <input
             type="text"
             value={queryInput}
-            placeholder="Busqueda"
+            placeholder="Search terms"
             onChange={(e) => setQueryInput(e.target.value)}
           ></input>
           <Button className="mx-1" onClick={submitInputHandler}>
-            Enviar
+            Send
           </Button>
         </div>
       </div>
