@@ -2,6 +2,11 @@
 
 Antonia Valenzuela 201903027-2
 
+Librerías utilizadas:
+
+- Axios
+- Bootstrap
+- Redux
 
 Realizado en React, para levantar ejecutar lo siguiente:
 
